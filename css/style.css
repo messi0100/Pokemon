@@ -1,0 +1,126 @@
+
+
+img {
+    width: 20%;
+    height: 15%;
+    border-style: dashed;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 50%;
+    display:block;
+    margin-left: 40%;
+    margin-right: 40%;
+    box-sizing: border-box;
+}
+
+/* h1 {
+    text-align: center;
+} */
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#header {
+    text-align: center;
+    background-color: #DAC5C1;
+    border-style: dashed;
+    border-width: 3px;
+}
+
+
+a {
+    color: beige;
+}
+
+#nav {
+    position: fixed;
+    top: 95px;
+    left: 10px;
+    border-style: dashed;   
+    border-width: 4px;
+    padding: 20px;
+    border-color: beige;
+}
+
+#footer {
+    text-align: center;
+    background-color: #DAC5C1 ;
+    border-style: dashed;
+    border-width: 3px;
+    margin-top: 5px;
+}
+
+#list {
+    text-align: center;
+    background-color: beige;
+    border-style: dashed;
+    border-width: 3px;
+    margin-top: 5px;
+}
+
+#green {
+    color: green;
+    padding: 10px;
+
+}
+
+#blue {
+    color: aqua;
+    padding: 10px;
+}
+
+#red {
+    color: red;
+    padding: 10px;
+}
+
+#fire {
+    border-color: red;
+}
+
+#fire-type {
+    background-color: red;
+    color: white;
+}
+
+.a-fire-type:hover {
+    color: red;
+}
+
+#water {
+    border-color: aqua;
+}
+
+#water-type {
+    background-color: aqua;
+    color: white;
+}
+
+.a-water-type:hover {
+    color: aqua;
+}
+
+#leaf {
+    border-color: green;
+}
+
+#leaf-type {
+    background-color: green;
+    color: white;
+}
+
+.a-leaf-type:hover {
+    color: green;
+}
+
+body {
+    background-color: gray;
+    margin-right: 20%; 
+    margin-left: 20%;
+    /* padding: 10px; */
+}
